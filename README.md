@@ -1,6 +1,6 @@
-# Knapsack
+# 0-1 Knapsack
 
-A collection of knapsack algorithms in Python
+A collection of 0-1 knapsack algorithms in Python
 - Dynamic programming
 - Dynamic programming with reduction of dominated status
 - Branch and bound / back-tracking
