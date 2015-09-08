@@ -1,3 +1,5 @@
+# Dynamic Programming for 0-1 Knapsack with dominance
+# By James Lao.
 #!/usr/bin/env python3
 
 from collections import deque
