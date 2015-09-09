@@ -1,7 +1,6 @@
 # Knapsack with backtracking - non-recursive
 # By James Lao
 
-from heapq import *
 import time
 import sys
 
